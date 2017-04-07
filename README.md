@@ -1,2 +1,2 @@
 # Sea-Data
-Team 4 CS320 project
+Sea Data is a prototype of a storage performance analyzer. 
